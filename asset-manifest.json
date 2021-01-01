@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-astronomy-pic-of-day/static/js/main.ab8bd4d8.chunk.js",
+    "main.js.map": "/react-astronomy-pic-of-day/static/js/main.ab8bd4d8.chunk.js.map",
+    "runtime-main.js": "/react-astronomy-pic-of-day/static/js/runtime-main.1e8b0553.js",
+    "runtime-main.js.map": "/react-astronomy-pic-of-day/static/js/runtime-main.1e8b0553.js.map",
+    "static/js/2.7a7a6288.chunk.js": "/react-astronomy-pic-of-day/static/js/2.7a7a6288.chunk.js",
+    "static/js/2.7a7a6288.chunk.js.map": "/react-astronomy-pic-of-day/static/js/2.7a7a6288.chunk.js.map",
+    "index.html": "/react-astronomy-pic-of-day/index.html",
+    "static/js/2.7a7a6288.chunk.js.LICENSE.txt": "/react-astronomy-pic-of-day/static/js/2.7a7a6288.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e8b0553.js",
+    "static/js/2.7a7a6288.chunk.js",
+    "static/js/main.ab8bd4d8.chunk.js"
+  ]
+}
